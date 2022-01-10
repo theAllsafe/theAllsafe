@@ -1,6 +1,6 @@
 <h1 align="center">Hey There👋 from theAllSafe</h1>
 <h3 align="center">This is the official GitHub Repo of theAllSafe Company.</h3>
-https://tas-landingpage2.vercel.app
+Our [website](https://theallsafe.com/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theallsafe&label=Profile%20views&color=0e75b6&style=flat" alt="theallsafe" /> </p>
 
